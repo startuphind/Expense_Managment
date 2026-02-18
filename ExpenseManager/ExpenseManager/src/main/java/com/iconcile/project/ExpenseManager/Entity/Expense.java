@@ -18,7 +18,6 @@ public class Expense {
     private LocalDate date;
     @Positive
     private Double amount;
-    @Column(unique = true)
     private String vendorName;
     private String description;
     private String category;

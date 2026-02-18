@@ -1,0 +1,23 @@
+
+ExpenseManager/target/
+ExpenseManager/.idea/
+ExpenseManager/*.iml
+ExpenseManager/.mvn/
+ExpenseManager/mvnw
+ExpenseManager/mvnw.cmd
+
+UI
+ExpenseManager_UI/node_modules/
+ExpenseManager_UI/.pnp/
+ExpenseManager_UI/.pnp.js
+ExpenseManager_UI/.env.local
+ExpenseManager_UI/.env.development.local
+ExpenseManager_UI/.env.test.local
+ExpenseManager_UI/.env.production.local
+ExpenseManager_UI/build/
+ExpenseManager_UI/.DS_Store
+
+# General
+*.log
+.DS_Store
+Thumbs.db
